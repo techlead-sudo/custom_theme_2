@@ -1,0 +1,4 @@
+/* Test file to verify asset loading */
+body {
+    border: 5px solid red !important;
+}

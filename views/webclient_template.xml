@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <!-- Backend styling is handled through assets in __manifest__.py -->
+        <!-- This file is kept for future extensions -->
+    </data>
+</odoo>
